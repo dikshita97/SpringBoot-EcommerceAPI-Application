@@ -3,7 +3,7 @@
 ___
 <p align="center">
 <a href="Java url">
-    <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg" />
+    <img alt="Java"/>
 </a>
 <a href="Maven url" >
     <img alt="Maven" src="https://img.shields.io/badge/maven-4.0-brightgreen.svg" />
@@ -11,9 +11,6 @@ ___
 <a href="Spring Boot url" >
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.1.4-brightgreen.svg" />
 </a>
-<a href="License url" >
-        <img alt="BSD Clause 3" src="https://img.shields.io/badge/License-BSD_3--Clause-blue.svg"/>
-    </a>
 </p>
 
 ---
@@ -447,17 +444,3 @@ The project utilizes data structures such as the `User`, `Product`, `Order`, and
 
 The E-commerce API Application serves as a robust foundation for building and managing the backend of your e-commerce platform. Whether you're developing a small online store or a large-scale marketplace, this application provides the essential functionality you need to get started.
 
-<!-- License -->
-## License
-
-This project is licensed under the [BSD 3-Clause License](LICENSE).
-
-<!-- Acknowledgments -->
-## Acknowledgments
-
-Thank you to the Spring Boot and Java communities for providing excellent tools and resources.
-
-<!-- Contact -->
-## Contact
-
-For questions or feedback, please contact [Amit Ashok Swain](mailto:business.amitswain@gmail.com).
